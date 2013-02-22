@@ -1,0 +1,9 @@
+* Added truth instead
+* Fixed a compile error
+* Some love for 40
+*   Fixed the merge
+|\  
+| * Better functions are better, changed the score
+* | Made the function even better
+|/  
+* Initial commit of the motivator
