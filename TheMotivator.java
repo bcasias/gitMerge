@@ -6,6 +6,8 @@ public class TheMotivator {
 			System.out.println("That's great");
 		else if (score > 60)
 			System.out.println("That's a meh grade ");
+		else if (score > 40)
+			System.out.println("F is for Fun right?")
 		else
 			System.out.println("Well, what can I say?");
 	}
