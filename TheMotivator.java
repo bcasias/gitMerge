@@ -8,6 +8,7 @@ public class TheMotivator {
 			System.out.println("That's a meh grade ");
 		else if (score > 40)
 			System.out.println("F is for Fun right?");
+			System.out.println("No... you just failed");
 		else
 			System.out.println("Well, what can I say?");
 	}
